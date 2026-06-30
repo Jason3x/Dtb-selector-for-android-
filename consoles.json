@@ -1,0 +1,822 @@
+[
+  {
+    "realName": "mymini",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan Mymini"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "mini40",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan Mini40"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36max",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36max noamp",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36pro",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Pro"
+      },
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 1 With Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "xf35h",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF35H"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "rf35h",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF35H"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "xf40h",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF40H"
+      },
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF40H"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "rf40h",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF40H"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "dc40v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF40V"
+      },
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC40V"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "dc35v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC35V"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "xf28",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF28"
+      }
+    ],
+    "extraSources": [
+      "logo/480P-1/"
+    ]
+  },
+  {
+    "realName": "r36max2",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max2"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "xf45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "dc45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "rf45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "k36s",
+    "brandEntries": [
+      {
+        "brand": "AISLPC",
+        "displayName": "GameConsole K36S"
+      },
+      {
+        "brand": "AISLPC",
+        "displayName": "GameConsole R36T"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "r36tmax",
+    "brandEntries": [
+      {
+        "brand": "AISLPC",
+        "displayName": "GameConsole R36T MAX"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "xu10",
+    "brandEntries": [
+      {
+        "brand": "MagicX",
+        "displayName": "MagicX XU10"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "hg36",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole HG36 (HG3506)"
+      },
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 1 Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480p/"
+    ]
+  },
+  {
+    "realName": "r36ultra",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole R36Ultra"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36ultrax",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole R36UltraX"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "rx6h",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole RX6H"
+      }
+    ],
+    "extraSources": [
+      "logo/480p/"
+    ]
+  },
+  {
+    "realName": "r46h",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R46H"
+      },
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R40XX ProMax"
+      }
+    ],
+    "extraSources": [
+      "logo/768p/"
+    ]
+  },
+  {
+    "realName": "r40xx",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R40XX"
+      }
+    ],
+    "extraSources": [
+      "logo/768p/"
+    ]
+  },
+  {
+    "realName": "r45h",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R45H"
+      },
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36H ProMax"
+      }
+    ],
+    "extraSources": [
+      "logo/768p/"
+    ]
+  },
+  {
+    "realName": "r36splus",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36sPlus"
+      }
+    ],
+    "extraSources": [
+      "logo/720p/"
+    ]
+  },
+  {
+    "realName": "r33s",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R33s"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel0",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s Panel 0"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel1",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s Panel 1"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel2",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s Panel 2"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel3",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s Panel 3"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel4",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s Panel 4"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "v22 panel4",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s V22"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "v30 panel4",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s V30"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "origin panel4",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36XX"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "r36h",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36H"
+      },
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole O30S"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "r50s",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R50S"
+      }
+    ],
+    "extraSources": [
+      "logo/854x480P/"
+    ]
+  },
+  {
+    "realName": "r50h",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R50H"
+      }
+    ],
+    "extraSources": [
+      "logo/720x1280P/"
+    ]
+  },
+  {
+    "realName": "sauce panel1",
+    "brandEntries": [
+      {
+        "brand": "SoySauce R36s",
+        "displayName": "Soy Sauce Panel 1"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "sauce panel2",
+    "brandEntries": [
+      {
+        "brand": "SoySauce R36s",
+        "displayName": "Soy Sauce Panel 2"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "sauce panel3",
+    "brandEntries": [
+      {
+        "brand": "SoySauce R36s",
+        "displayName": "Soy Sauce Panel 3"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "sauce panel4",
+    "brandEntries": [
+      {
+        "brand": "SoySauce R36s",
+        "displayName": "Soy Sauce Panel 4"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "a10mini",
+    "brandEntries": [
+      {
+        "brand": "YMC",
+        "displayName": "YMC A10MINI"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "a10miniv4",
+    "brandEntries": [
+      {
+        "brand": "YMC",
+        "displayName": "YMC A10MINI V4"
+      }
+    ],
+    "extraSources": [
+      "logo/540P/"
+    ]
+  },
+  {
+    "realName": "k36",
+    "brandEntries": [
+      {
+        "brand": "Kinhank",
+        "displayName": "K36 Origin Panel"
+      },
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 1 Without Amplifier And Invert Right Joystick"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type2",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 2 Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type2 amp",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 2 With Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type3 panel1",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 3 Panel 1"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type3 panel2",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 3 Panel 2[thanks Flecha]"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type4",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 4"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type5",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 5"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "xgb36",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole XGB36 (G26)"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "t16max",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole T16MAX"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "u8",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole U8"
+      }
+    ],
+    "extraSources": [
+      "logo/480P5-3/"
+    ]
+  },
+  {
+    "realName": "u8-v2",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole U8 V2"
+      }
+    ],
+    "extraSources": [
+      "logo/480P5-3/"
+    ]
+  },
+  {
+    "realName": "g350",
+    "brandEntries": [
+      {
+        "brand": "Batlexp",
+        "displayName": "Batlexp G350"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "dr28s",
+    "brandEntries": [
+      {
+        "brand": "Diium(SZDiiER)",
+        "displayName": "Diium Dr28s"
+      }
+    ],
+    "extraSources": [
+      "logo/480P-270/"
+    ]
+  },
+  {
+    "realName": "d007",
+    "brandEntries": [
+      {
+        "brand": "Diium(SZDiiER)",
+        "displayName": "SZDiiER D007(Plus)"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "rg36",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole RG36"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "r40s",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole R40S (RK3326 Without L2/R2)"
+      },
+      {
+        "brand": "Other",
+        "displayName": "GameConsole R39S"
+      }
+    ],
+    "extraSources": [
+      "logo/480P5-3/"
+    ]
+  },
+  {
+    "realName": "rgb10",
+    "brandEntries": [
+      {
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB10"
+      }
+    ],
+    "extraSources": [
+      "logo/320P/"
+    ]
+  },
+  {
+    "realName": "rgb10max1",
+    "brandEntries": [
+      {
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB10Max1"
+      }
+    ],
+    "extraSources": [
+      "logo/854x480P/"
+    ]
+  },
+  {
+    "realName": "rgb20s",
+    "brandEntries": [
+      {
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB20S"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "rp1",
+    "brandEntries": [
+      {
+        "brand": "RetroBox",
+        "displayName": "RetroBox P1"
+      }
+    ],
+    "extraSources": [
+      "logo/480P-270/"
+    ]
+  }
+]
