@@ -11,7 +11,7 @@ The app supports **two OS targets**, selectable from a dropdown at the top of th
 
 | OS | Source config | What it does |
 |---|---|---|
-| **(d)ArkOS4Clone** | `consoles.json` at SD root | Brand/console/battery selection, full overclocking (CPU/GPU/DDR + voltage patch), patches `boot.ini`/`boot.txt` |
+| **(d)ArkOS4Clone** | `consoles.json` should be placed in the boot directory of the SD card. | Brand/console/battery selection, full overclocking (CPU/GPU/DDR + voltage patch), patches `boot.ini`/`boot.txt` |
 | **dArkOS RE** | `r36_devices.ini` included in your SD root | Variant/device selection, copies `.dtb` from `dtb/<variant>/<device>/`, installs the matching `logo.bmp` (640x480 / 720x720) |
 
 Switching the OS dropdown reloads the correct config file and shows only the relevant options — no overclocking/battery UI for dArkOS RE, since that distro doesn't expose those concepts.
@@ -48,7 +48,7 @@ Switching the OS dropdown reloads the correct config file and shows only the rel
 
 ## 🔄 Updating consoles / devices
 
-- **(d)ArkOS4Clone**: update `consoles.json` and the `consoles/` folder on the SD card. No app update needed.
+- **(d)ArkOS4Clone**: update `consoles.json` folder on the SD card. No app update needed.
 - **dArkOS RE**: automatic update 
 
 ---
