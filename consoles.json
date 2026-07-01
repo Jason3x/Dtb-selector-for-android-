@@ -1,10 +1,10 @@
 [
   {
-    "realName": "mymini",
+    "realName": "a10mini",
     "brandEntries": [
       {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan Mymini"
+        "brand": "YMC",
+        "displayName": "YMC A10MINI"
       }
     ],
     "extraSources": [
@@ -12,11 +12,23 @@
     ]
   },
   {
-    "realName": "mini40",
+    "realName": "a10miniv4",
     "brandEntries": [
       {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan Mini40"
+        "brand": "YMC",
+        "displayName": "YMC A10MINI V4"
+      }
+    ],
+    "extraSources": [
+      "logo/540P/"
+    ]
+  },
+  {
+    "realName": "r36ultra",
+    "brandEntries": [
+      {
+        "brand": "UDT",
+        "displayName": "UDT R36Ultra"
       }
     ],
     "extraSources": [
@@ -24,179 +36,11 @@
     ]
   },
   {
-    "realName": "r36max",
+    "realName": "r36ultrax",
     "brandEntries": [
       {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan R36Max"
-      }
-    ],
-    "extraSources": [
-      "logo/720P/"
-    ]
-  },
-  {
-    "realName": "r36max noamp",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan R36Max Without Amplifier"
-      }
-    ],
-    "extraSources": [
-      "logo/720P/"
-    ]
-  },
-  {
-    "realName": "r36pro",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan R36Pro"
-      },
-      {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 1 With Amplifier"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "xf35h",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan XF35H"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "rf35h",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan RF35H"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "xf40h",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan XF40H"
-      },
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan RF40H"
-      }
-    ],
-    "extraSources": [
-      "logo/720P/"
-    ]
-  },
-  {
-    "realName": "rf40h",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan RF40H"
-      }
-    ],
-    "extraSources": [
-      "logo/720P/"
-    ]
-  },
-  {
-    "realName": "dc40v",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan XF40V"
-      },
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan DC40V"
-      }
-    ],
-    "extraSources": [
-      "logo/720P/"
-    ]
-  },
-  {
-    "realName": "dc35v",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan DC35V"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "xf28",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan XF28"
-      }
-    ],
-    "extraSources": [
-      "logo/480P-1/"
-    ]
-  },
-  {
-    "realName": "r36max2",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan R36Max2"
-      }
-    ],
-    "extraSources": [
-      "logo/768P/"
-    ]
-  },
-  {
-    "realName": "xf45v",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan XF45V"
-      }
-    ],
-    "extraSources": [
-      "logo/768P/"
-    ]
-  },
-  {
-    "realName": "dc45v",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan DC45V"
-      }
-    ],
-    "extraSources": [
-      "logo/768P/"
-    ]
-  },
-  {
-    "realName": "rf45v",
-    "brandEntries": [
-      {
-        "brand": "XiFan HandHelds",
-        "displayName": "XiFan RF45V"
+        "brand": "UDT",
+        "displayName": "UDT R36UltraX"
       }
     ],
     "extraSources": [
@@ -244,55 +88,151 @@
     ]
   },
   {
-    "realName": "hg36",
+    "realName": "g350",
     "brandEntries": [
       {
-        "brand": "Other",
-        "displayName": "GameConsole HG36 (HG3506)"
+        "brand": "Batlexp",
+        "displayName": "Batlexp G350"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "k36",
+    "brandEntries": [
+      {
+        "brand": "Kinhank",
+        "displayName": "K36 Origin Panel"
       },
       {
         "brand": "Clone R36s",
-        "displayName": "Clone Type 1 Without Amplifier"
+        "displayName": "Clone Type 1 Without Amplifier And Invert Right Joystick"
       }
     ],
     "extraSources": [
-      "logo/480p/"
+      "logo/480P/"
     ]
   },
   {
-    "realName": "r36ultra",
+    "realName": "rp1",
     "brandEntries": [
       {
-        "brand": "Other",
-        "displayName": "GameConsole R36Ultra"
+        "brand": "RetroBox",
+        "displayName": "RetroBox P1"
       }
     ],
     "extraSources": [
-      "logo/720P/"
+      "logo/480P-270/"
     ]
   },
   {
-    "realName": "r36ultrax",
+    "realName": "rgb10",
     "brandEntries": [
       {
-        "brand": "Other",
-        "displayName": "GameConsole R36UltraX"
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB10"
       }
     ],
     "extraSources": [
-      "logo/768P/"
+      "logo/320P/"
     ]
   },
   {
-    "realName": "rx6h",
+    "realName": "rgb10max1",
     "brandEntries": [
       {
-        "brand": "Other",
-        "displayName": "GameConsole RX6H"
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB10Max1"
       }
     ],
     "extraSources": [
-      "logo/480p/"
+      "logo/854x480P/"
+    ]
+  },
+  {
+    "realName": "rgb20s",
+    "brandEntries": [
+      {
+        "brand": "Powkiddy",
+        "displayName": "Powkiddy RGB20S"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type2",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 2 Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type2 amp",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 2 With Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type3 panel1",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 3 Panel 1"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type3 panel2",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 3 Panel 2[thanks Flecha]"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type4",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 4"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
+    "realName": "clone type5",
+    "brandEntries": [
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 5"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
     ]
   },
   {
@@ -424,6 +364,18 @@
     ]
   },
   {
+    "realName": "v21 panel4 rumble test",
+    "brandEntries": [
+      {
+        "brand": "GameConsole",
+        "displayName": "GameConsole R36s v21 Rumble Fix (Risk unknown. For testing purposes only.)"
+      }
+    ],
+    "extraSources": [
+      "logo/480P/"
+    ]
+  },
+  {
     "realName": "v22 panel4",
     "brandEntries": [
       {
@@ -548,11 +500,23 @@
     ]
   },
   {
-    "realName": "a10mini",
+    "realName": "dr28s",
     "brandEntries": [
       {
-        "brand": "YMC",
-        "displayName": "YMC A10MINI"
+        "brand": "Diium(SZDiiER)",
+        "displayName": "Diium Dr28s"
+      }
+    ],
+    "extraSources": [
+      "logo/480P-270/"
+    ]
+  },
+  {
+    "realName": "d007",
+    "brandEntries": [
+      {
+        "brand": "Diium(SZDiiER)",
+        "displayName": "SZDiiER D007(Plus)"
       }
     ],
     "extraSources": [
@@ -560,27 +524,63 @@
     ]
   },
   {
-    "realName": "a10miniv4",
+    "realName": "mymini",
     "brandEntries": [
       {
-        "brand": "YMC",
-        "displayName": "YMC A10MINI V4"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan Mymini"
       }
     ],
     "extraSources": [
-      "logo/540P/"
+      "logo/480P/"
     ]
   },
   {
-    "realName": "k36",
+    "realName": "mini40",
     "brandEntries": [
       {
-        "brand": "Kinhank",
-        "displayName": "K36 Origin Panel"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan Mini40"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36max",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36max noamp",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "r36pro",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Pro"
       },
       {
         "brand": "Clone R36s",
-        "displayName": "Clone Type 1 Without Amplifier And Invert Right Joystick"
+        "displayName": "Clone Type 1 With Amplifier"
       }
     ],
     "extraSources": [
@@ -588,11 +588,11 @@
     ]
   },
   {
-    "realName": "clone type2",
+    "realName": "xf35h",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 2 Without Amplifier"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF35H"
       }
     ],
     "extraSources": [
@@ -600,11 +600,11 @@
     ]
   },
   {
-    "realName": "clone type2 amp",
+    "realName": "rf35h",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 2 With Amplifier"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF35H"
       }
     ],
     "extraSources": [
@@ -612,11 +612,35 @@
     ]
   },
   {
-    "realName": "clone type3 panel1",
+    "realName": "xf40h",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 3 Panel 1"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF40H"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "rf40h",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF40H"
+      }
+    ],
+    "extraSources": [
+      "logo/720P/"
+    ]
+  },
+  {
+    "realName": "dc35v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC35V"
       }
     ],
     "extraSources": [
@@ -624,39 +648,107 @@
     ]
   },
   {
-    "realName": "clone type3 panel2",
+    "realName": "dc40v",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 3 Panel 2[thanks Flecha]"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF40V"
+      },
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC40V"
       }
     ],
     "extraSources": [
-      "logo/480P/"
+      "logo/720P/"
     ]
   },
   {
-    "realName": "clone type4",
+    "realName": "xf28",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 4"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF28"
       }
     ],
     "extraSources": [
-      "logo/480P/"
+      "logo/480P-1/"
     ]
   },
   {
-    "realName": "clone type5",
+    "realName": "r36max2",
     "brandEntries": [
       {
-        "brand": "Clone R36s",
-        "displayName": "Clone Type 5"
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan R36Max2"
       }
     ],
     "extraSources": [
-      "logo/480P/"
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "xf45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan XF45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "dc45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan DC45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "rf45v",
+    "brandEntries": [
+      {
+        "brand": "XiFan HandHelds",
+        "displayName": "XiFan RF45V"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
+    "realName": "hg36",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole HG36 (HG3506)"
+      },
+      {
+        "brand": "Clone R36s",
+        "displayName": "Clone Type 1 Without Amplifier"
+      }
+    ],
+    "extraSources": [
+      "logo/480p/"
+    ]
+  },
+  {
+    "realName": "rx6h",
+    "brandEntries": [
+      {
+        "brand": "Other",
+        "displayName": "GameConsole RX6H"
+      }
+    ],
+    "extraSources": [
+      "logo/480p/"
     ]
   },
   {
@@ -708,42 +800,6 @@
     ]
   },
   {
-    "realName": "g350",
-    "brandEntries": [
-      {
-        "brand": "Batlexp",
-        "displayName": "Batlexp G350"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "dr28s",
-    "brandEntries": [
-      {
-        "brand": "Diium(SZDiiER)",
-        "displayName": "Diium Dr28s"
-      }
-    ],
-    "extraSources": [
-      "logo/480P-270/"
-    ]
-  },
-  {
-    "realName": "d007",
-    "brandEntries": [
-      {
-        "brand": "Diium(SZDiiER)",
-        "displayName": "SZDiiER D007(Plus)"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
     "realName": "rg36",
     "brandEntries": [
       {
@@ -769,54 +825,6 @@
     ],
     "extraSources": [
       "logo/480P5-3/"
-    ]
-  },
-  {
-    "realName": "rgb10",
-    "brandEntries": [
-      {
-        "brand": "Powkiddy",
-        "displayName": "Powkiddy RGB10"
-      }
-    ],
-    "extraSources": [
-      "logo/320P/"
-    ]
-  },
-  {
-    "realName": "rgb10max1",
-    "brandEntries": [
-      {
-        "brand": "Powkiddy",
-        "displayName": "Powkiddy RGB10Max1"
-      }
-    ],
-    "extraSources": [
-      "logo/854x480P/"
-    ]
-  },
-  {
-    "realName": "rgb20s",
-    "brandEntries": [
-      {
-        "brand": "Powkiddy",
-        "displayName": "Powkiddy RGB20S"
-      }
-    ],
-    "extraSources": [
-      "logo/480P/"
-    ]
-  },
-  {
-    "realName": "rp1",
-    "brandEntries": [
-      {
-        "brand": "RetroBox",
-        "displayName": "RetroBox P1"
-      }
-    ],
-    "extraSources": [
-      "logo/480P-270/"
     ]
   }
 ]
