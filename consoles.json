@@ -76,6 +76,22 @@
     ]
   },
   {
+    "realName": "h7",
+    "brandEntries": [
+      {
+        "brand": "Lenovo",
+        "displayName": "Lenovo GO2"
+      },
+      {
+        "brand": "GUSGU",
+        "displayName": "GUSGU H7"
+      }
+    ],
+    "extraSources": [
+      "logo/768P/"
+    ]
+  },
+  {
     "realName": "xu10",
     "brandEntries": [
       {
